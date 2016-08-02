@@ -11,7 +11,7 @@ composer require cpavs/inpc
 
 ## Ejemplo de uso
 
-```
+```php
 require "vendor/autoload.php";
 
 use Cpavs\Scraping\Inpc;
