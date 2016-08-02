@@ -1,0 +1,17 @@
+{
+    "name": "cpavs/inpc",
+    "description": "Obtiene los inpc de la pagina de gobierno",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cesar aguilera",
+            "email": "cesar.aguilera@cpavs.mx"
+        }
+    ],
+    "require": {},
+    "autoload":{
+    	"psr-4" : {
+    		"Cpavs\\Scraping\\" : "src" 
+    	}
+    }
+}
